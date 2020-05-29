@@ -1,2 +1,1 @@
-# assignment-3-team33
-# fit3140_a3
+# FIT3140 Assignment 3
